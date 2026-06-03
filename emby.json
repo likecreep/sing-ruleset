@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "emby.as174.de",
+        "hxd.as174.de",
+        "embyplus.org",
+        "cf.imetyou.top",
+        "lite.liminalnet.com",
+        "kessoku-bando.biliblili.uk",
+        "free.28.al",
+        "hellohk.me",
+        "javrocket.top",
+        "javdb565.com",
+        "biliblili.uk",
+        "meowfly.de",
+        "pilipiliultra.com"
+      ]
+    }
+  ]
+}
