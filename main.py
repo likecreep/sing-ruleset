@@ -33,7 +33,7 @@ def convert_config(ruleName):
             print(f"Skipped unknown rule type: {line}")
 
     config = {
-        "version": 1,
+        "version": 2,
         "rules": [
             {
                 "domain": domain,
